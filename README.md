@@ -1,2 +1,0 @@
-# FSD
-AICTE Internship
